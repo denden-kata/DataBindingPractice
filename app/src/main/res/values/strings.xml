@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataBindingPractice</string>
+
+    <!-- main_fragment.xml -->
+    <string name="text">ひあ</string>
+    <string name="edit_text">にゅうりょく</string>
+    <string name="button">おせ</string>
+
+</resources>
